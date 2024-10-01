@@ -18,7 +18,7 @@ source venv/bin/activate
 * Install the necessary Python dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install Scapy Pandas Plotly
 ```
 ## Running the Tool
 * To run the tool, use the following command:
