@@ -1,4 +1,5 @@
 #Network Traffic Analysis Tool - Project Overview
+
 This project is a Network Traffic Analysis Tool developed using Python on Kali Linux. The tool captures network traffic, analyzes it for potential security threats, and provides real-time visualization of the traffic patterns. Below are the key components and functionalities of the project:
 
 1. Project Setup
